@@ -1,1 +1,3 @@
+mkdir new1
+cd new1
 touch sadik1
